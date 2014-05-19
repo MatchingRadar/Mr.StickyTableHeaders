@@ -3,11 +3,13 @@
 "title": "Mr.StickyTableHeaders",
 "description": "A very simple, very small jquery plugin: Makes all table headers sticky when scrolling. Weighs in at a whopping minified 1.26KB! :D",
 "keywords": [
-"Sticky headers",
-"sticky table headers",
-"html table"
+"Sticky",
+"Headers",
+"UI"
+"table",
+"html"
 ],
-"version" : "1.0.2",
+"version" : "1.0.3",
 "author": {
 "name": "Matching Radar",
 "url": "http://www.matchingradar.co.uk"
